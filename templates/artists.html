@@ -1,0 +1,14 @@
+{{define "content"}}
+
+<div class="artists_collection">
+  {{range .}}
+  <div class="artist_card">
+    <div class="logo">
+      <a href="/artist/{{.Id}}" class="artist_image_buttons"><img src="{{.Image}}" /> </a>
+    </div>
+    <div class="artist_name">{{.Name}}</div>
+  </div>
+  {{end}}
+</div>
+
+{{end}}

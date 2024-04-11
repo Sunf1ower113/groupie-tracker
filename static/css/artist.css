@@ -1,0 +1,32 @@
+.artist {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.artist_name {
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgba(3, 3, 3, 0.726);
+  margin-top: 20px;
+}
+
+.members {
+}
+
+.creation_date {
+}
+
+.first_album {
+}
+
+.locations {
+}
+
+.concert_dates {
+}
+
+.relations {
+}

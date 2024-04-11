@@ -1,0 +1,26 @@
+
+.error_page {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: #000000;
+    margin-top: 25%;
+    margin-bottom: 6%;
+}
+
+.error {
+    
+   
+}
+
+.home_button {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 60px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
